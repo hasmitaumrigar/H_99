@@ -1,6 +1,6 @@
 
 # Hello, I'm Hasmita
-<a href="https://linkedin.com/HasmitaUmrigar"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/hasmita-umrigar-8057b9183"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I have a strong interest in cybersecurity and digital forensics, motivated by a desire to make a meaningful impact in these critical fields. Recently completing my Master's degree in Cybersecurity and Digital Forensics, I am dedicated to gaining the necessary knowledge and skills to contribute significantly to digital security and forensic investigations.
 
